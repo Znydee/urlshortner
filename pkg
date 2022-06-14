@@ -1,0 +1,8 @@
+Checking availability of current mirror: bad
+Testing the available mirrors:
+[*] https://dl.bintray.com/termux/termux-packages-24: bad
+[*] https://grimler.se/termux-packages-24: bad
+[*] https://main.termux-mirror.ml: bad
+[*] https://termux.mentality.rip/termux-packages-24: bad
+Using fallback mirror: https://termux.org/packages
+Reading package lists...

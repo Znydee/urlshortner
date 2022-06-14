@@ -1,0 +1,11 @@
+html,body {
+    padding-left:20px;
+    padding-right: 20px;
+    background-color: #006699;
+    color:white;
+    font-family: "Sofia", sans-serif;
+    height: 100%;
+}
+.btn{
+   margin-top:10px
+}
